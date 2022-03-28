@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "title": "Суши-сеты",
+    "parent_id": 0
+  },
+  {
+    "id": 2,
+    "title": "Роллы",
+    "parent_id": 0
+  },
+  {
+    "id": 3,
+    "title": "Закуски",
+    "parent_id": 0
+  },
+  {
+    "id": 4,
+    "title": "Поке",
+    "parent_id": 0
+  },
+  {
+    "id": 5,
+    "title": "WOK",
+    "parent_id": 0
+  },
+  {
+    "id": 6,
+    "title": "Пицца",
+    "parent_id": 0
+  },
+  {
+    "id": 7,
+    "title": "Супы",
+    "parent_id": 0
+  },
+  {
+    "id": 8,
+    "title": "Десерты",
+    "parent_id": 0
+  },
+  {
+    "id": 9,
+    "title": "Напитки",
+    "parent_id": 0
+  }
+]
